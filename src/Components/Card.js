@@ -12,12 +12,10 @@ function Card() {
           <label className='turnON'>
             <input type="checkbox" name="" id="toggle" />
               <span className='slider'></span>
-            {/* </input> */}
           </label>
           <p>Monthly</p>
 
         </div>
-        {/* <div className=''> */}
         <div className="pricing-main">
         <div className="pricing-box">
           <p className="box-title">Basic</p>
@@ -54,7 +52,6 @@ function Card() {
         </div>
       </div>
 
-        {/* </div> */}
 
       </div>  
     </div>
