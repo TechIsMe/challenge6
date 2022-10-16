@@ -10,5 +10,5 @@ The app is from one of frontend mentor challenge where I code insurance company 
 ## Tools
 HTML,CSS AND REACT.
 
-## Learn More
+
 
